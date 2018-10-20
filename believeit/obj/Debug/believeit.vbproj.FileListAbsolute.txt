@@ -1,0 +1,11 @@
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\bin\Debug\believeit.exe
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\bin\Debug\believeit.pdb
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\bin\Debug\believeit.xml
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\obj\Debug\believeit.vbprojResolveAssemblyReference.cache
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\obj\Debug\believeit.Form1.resources
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\obj\Debug\believeit.Resources.resources
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\obj\Debug\believeit.vbproj.GenerateResource.cache
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\obj\Debug\believeit.vbproj.CoreCompileInputs.cache
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\obj\Debug\believeit.exe
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\obj\Debug\believeit.xml
+C:\Users\shant\Desktop\VisualStudio808\midterm\believeit\believeit\obj\Debug\believeit.pdb

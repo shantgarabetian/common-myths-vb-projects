@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "believeit", "believeit\believeit.vbproj", "{1BA09C83-1A0F-426D-83FD-F09CE781795B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA09C83-1A0F-426D-83FD-F09CE781795B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA09C83-1A0F-426D-83FD-F09CE781795B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA09C83-1A0F-426D-83FD-F09CE781795B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA09C83-1A0F-426D-83FD-F09CE781795B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBB7E40-7039-4F73-8268-BC37EA9D189B}
+	EndGlobalSection
+EndGlobal
